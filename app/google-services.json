@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "756641891635",
+    "firebase_url": "https://tempator-80115.firebaseio.com",
+    "project_id": "tempator-80115",
+    "storage_bucket": "tempator-80115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756641891635:android:2ba4568c4dd03a60",
+        "android_client_info": {
+          "package_name": "com.yafetsutanto.tempator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756641891635-o90km1r5da6mvlshaqmmm157k4ts8htq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yafetsutanto.tempator",
+            "certificate_hash": "ca8b7e76866e95836c22cc8b3ea528956e15320e"
+          }
+        },
+        {
+          "client_id": "756641891635-ii84bhhumtl83sgpacka6dip46h6ave0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5evEBOuUohgU6TIXO4Vn8OdMAjsdzLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756641891635-ii84bhhumtl83sgpacka6dip46h6ave0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
